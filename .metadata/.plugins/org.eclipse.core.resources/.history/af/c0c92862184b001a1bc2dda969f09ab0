@@ -1,0 +1,9 @@
+package org.springframework.samples.petclinic.proxy;
+
+public class StoreTest {
+	
+	@Test
+	public void testPay() {
+		
+	}
+}

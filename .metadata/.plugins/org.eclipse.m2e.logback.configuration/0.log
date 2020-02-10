@@ -1,0 +1,68 @@
+2020-02-07 11:18:55,048 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2020-02-07 11:19:00,077 [Worker-11: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.springframework.samples:spring-petclinic:2.2.0.BUILD-SNAPSHOT @ C:\Users\rlagu\git\spring-petclinic\pom.xml.
+2020-02-07 11:19:09,111 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - dotGitDirectory C:\Users\rlagu\git\spring-petclinic\.git
+2020-02-07 11:19:09,757 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Collected git.build.user.name with value rlaguswhd19
+2020-02-07 11:19:09,760 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Collected git.build.user.email with value rlaguswhd19@naver.com
+2020-02-07 11:19:09,841 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Collected git.branch with value master
+2020-02-07 11:19:09,845 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - --always = true
+2020-02-07 11:19:09,845 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - --dirty = -dirty
+2020-02-07 11:19:09,849 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - --abbrev = 7
+2020-02-07 11:19:09,870 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Tag refs [[Ref[refs/tags/1.5.x=c36452a2c34443ae26b4ecbba4f149906af14717]]]
+2020-02-07 11:19:09,931 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Created map: [{}]
+2020-02-07 11:19:09,934 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - evalCommit is [ac3e64208e3bcf85eaeff2f870083212f526676f]
+2020-02-07 11:19:10,265 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Collected git.commit.id.describe with value ac3e642
+2020-02-07 11:19:10,266 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Collected git.commit.id.describe-short with value ac3e642
+2020-02-07 11:19:10,267 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Collected git.commit.id with value ac3e64208e3bcf85eaeff2f870083212f526676f
+2020-02-07 11:19:10,268 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Collected git.commit.id.abbrev with value ac3e642
+2020-02-07 11:19:10,495 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Collected git.dirty with value false
+2020-02-07 11:19:10,498 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Collected git.commit.user.name with value Dave Syer
+2020-02-07 11:19:10,499 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Collected git.commit.user.email with value dsyer@pivotal.io
+2020-02-07 11:19:10,500 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Collected git.commit.message.full with value Update checkstyle plugin for security scan warning
+2020-02-07 11:19:10,501 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Collected git.commit.message.short with value Update checkstyle plugin for security scan warning
+2020-02-07 11:19:10,502 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Collected git.commit.time with value 2020-02-03T18:20:37+0900
+2020-02-07 11:19:10,504 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Collected git.remote.origin.url with value https://github.com/spring-projects/spring-petclinic.git
+2020-02-07 11:19:10,537 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Collected git.tags with value 
+2020-02-07 11:19:10,551 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - evalCommit is [ac3e64208e3bcf85eaeff2f870083212f526676f]
+2020-02-07 11:19:10,554 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Tag refs [[Ref[refs/tags/1.5.x=c36452a2c34443ae26b4ecbba4f149906af14717]]]
+2020-02-07 11:19:10,557 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Created map: [{}]
+2020-02-07 11:19:10,571 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Collected git.closest.tag.name with value 
+2020-02-07 11:19:10,587 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - evalCommit is [ac3e64208e3bcf85eaeff2f870083212f526676f]
+2020-02-07 11:19:10,590 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Tag refs [[Ref[refs/tags/1.5.x=c36452a2c34443ae26b4ecbba4f149906af14717]]]
+2020-02-07 11:19:10,593 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Created map: [{}]
+2020-02-07 11:19:10,609 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Collected git.closest.tag.commit.count with value 
+2020-02-07 11:19:10,624 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Collected git.total.commit.count with value 684
+2020-02-07 11:19:11,851 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Collected git.local.branch.ahead with value 0
+2020-02-07 11:19:11,851 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Collected git.local.branch.behind with value 0
+2020-02-07 11:19:11,861 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Collected git.build.time with value 2020-02-07T11:19:11+0900
+2020-02-07 11:19:11,862 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Collected git.build.version with value 2.2.0.BUILD-SNAPSHOT
+2020-02-07 11:19:11,864 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Collected git.build.host with value DESKTOP-1E2QRRD
+2020-02-07 11:19:11,865 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - including property git.build.user.email in results
+2020-02-07 11:19:11,865 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - including property git.build.host in results
+2020-02-07 11:19:11,865 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - including property git.dirty in results
+2020-02-07 11:19:11,865 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - including property git.local.branch.behind in results
+2020-02-07 11:19:11,865 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - including property git.remote.origin.url in results
+2020-02-07 11:19:11,865 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - including property git.closest.tag.name in results
+2020-02-07 11:19:11,865 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - including property git.local.branch.ahead in results
+2020-02-07 11:19:11,865 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - including property git.total.commit.count in results
+2020-02-07 11:19:11,866 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - including property git.commit.id.describe-short in results
+2020-02-07 11:19:11,866 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - including property git.commit.user.email in results
+2020-02-07 11:19:11,866 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - including property git.commit.time in results
+2020-02-07 11:19:11,866 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - including property git.commit.message.full in results
+2020-02-07 11:19:11,866 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - including property git.build.version in results
+2020-02-07 11:19:11,866 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - including property git.commit.message.short in results
+2020-02-07 11:19:11,867 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - including property git.commit.id.abbrev in results
+2020-02-07 11:19:11,867 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - including property git.branch in results
+2020-02-07 11:19:11,867 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - including property git.build.user.name in results
+2020-02-07 11:19:11,867 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - including property git.closest.tag.commit.count in results
+2020-02-07 11:19:11,867 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - including property git.commit.id.describe in results
+2020-02-07 11:19:11,867 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - including property git.commit.id in results
+2020-02-07 11:19:11,867 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - including property git.tags in results
+2020-02-07 11:19:11,867 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - including property git.build.time in results
+2020-02-07 11:19:11,868 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - including property git.commit.user.name in results
+2020-02-07 11:19:11,874 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Reading existing properties file [C:\Users\rlagu\git\spring-petclinic\target\classes\git.properties] (for module petclinic)...
+2020-02-07 11:19:11,885 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Properties file [C:\Users\rlagu\git\spring-petclinic\target\classes\git.properties] is up-to-date (for module petclinic)...
+2020-02-07 11:19:13,461 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-07 11:19:13,471 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2020-02-07 11:19:13,524 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 36 resources
+2020-02-07 11:19:13,554 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-02-07 11:19:13,554 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\rlagu\git\spring-petclinic\src\test\resources
