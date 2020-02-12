@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aop-reference-model>
 <aop-project name="BeanScope"/>
+<aop-project name="Profile"/>
+<aop-project name="ApplicationEventPublisher"/>
 <aop-project name="spring-petclinic"/>
 <aop-project name="IocContainer"/>
+<aop-project name="ApplicationResourceLoader"/>
 </aop-reference-model>
