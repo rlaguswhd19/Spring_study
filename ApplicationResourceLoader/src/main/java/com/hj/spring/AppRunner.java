@@ -22,7 +22,6 @@ public class AppRunner implements ApplicationRunner{
 	public void run(ApplicationArguments args) throws Exception {
 		System.out.println(resourceLoader.getClass());
 		
-		
 		Resource resource = resourceLoader.getResource("classpath:test.txt");
 		System.out.println(resource.getClass());
 		
